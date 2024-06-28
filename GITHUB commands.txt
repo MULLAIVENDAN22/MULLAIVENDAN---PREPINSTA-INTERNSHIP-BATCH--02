@@ -14,3 +14,4 @@
 AFTER ADDING OR MAKING CHANGES
     * git add --a   
     * git commit -m "initial commit" 
+    * git push
