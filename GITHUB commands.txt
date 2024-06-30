@@ -1,6 +1,6 @@
  STARTING COMMANDS
     * git init
-    * git status* git status
+    * git status
     * ls   --> list
     * cd -(file name)-
     * cd ..   --> previous folder
@@ -12,6 +12,7 @@
 
     
 AFTER ADDING OR MAKING CHANGES
+    * git status
     * git add --a   
     * git commit -m "initial commit" 
     * git push
